@@ -1,2 +1,59 @@
-title: Akshay Kumar
-theme: jekyll-theme-minimal
+# Site settings
+title: "Akshay Kumar"
+description: "Akshay Kumar's website"
+
+# Build settings
+markdown: kramdown
+sass: 
+  sass_dir: _sass
+  style: compressed
+
+# Resume settings
+resume_avatar:                  "true"
+resume_name:                    "Akshay Kumar"
+resume_title:                   "Software Engineer"
+
+# used for the contact button in _layouts/resume.html
+resume_contact_email:           "reachakshay16@gmail.com"
+
+# the next two items are used for schema itemprops in _layouts/resume.html
+resume_contact_telephone:       "410-869-5988"
+resume_contact_address:         "Baltimore, MD"
+
+resume_header_contact_info:     "reachakshay16@gmail.com • 410-869-5988 • Baltimore, MD"
+display_header_contact_info:    "false"
+
+resume_header_intro: "<p>I’m Akshay, a master's student in Computer Science at UMBC, where I also work as a Teaching Assistant. My studies focus on developing AI solutions for healthcare, optimizing smart home energy systems with machine learning, and uncovering vulnerabilities through ethical hacking. Previously, as a software engineer, I contributed to multi-billion-dollar corporations and innovative startups by implementing data-driven strategies that delivered over $5 million in revenue. I look forward to combining my AI wizardry, ML magic, and hacking savvy to build next-gen solutions—one PR at a time!</p>"
+
+# use "yes" to display the email contact button,
+# "no" to display an "I'm not looking for work" message,
+# or remove the resume_looking_for_work option entirely
+# to leave blank
+resume_looking_for_work:        "yes"
+
+# Decide which sections to use
+# comment out to hide
+resume_section_experience:      true
+resume_section_education:       true
+resume_section_projects:        true
+resume_section_skills:          true
+resume_section_recognition:     true
+resume_section_links:           true
+resume_section_associations:    true
+resume_section_leadership:    true
+# resume_section_interests:       true
+
+# Resume social links
+# uncomment the options you wish to display, and add your own URL
+resume_social_links:
+  resume_github_url:            "https://github.com/akumar-9"
+  resume_linkedin_url:          "https://www.linkedin.com/in/akumar9"
+  resume_website_url:           "http://akumar-9.github.io"
+resume_print_social_links:      true
+
+# Design settings
+resume_theme:                   default
+
+# Note: when editing locally, remember to restart
+# your Jekyll server when you edit this file. Changes
+# to _config.yml are only recognized when the server starts

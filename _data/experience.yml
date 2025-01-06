@@ -1,0 +1,21 @@
+# Jobs
+- 
+  position: Graduate Teaching Assistant - CMSC441 Design and Analysis of Algorithms
+  company: University of Maryland, Baltimore County
+  duration: Sep 2024 &mdash; Present
+  summary: <ul class="resume-item-list"><li>Mentoring 30+ computer science students in core algorithmic concepts, including data structures, sorting algorithms, and graph theory, fostering industry-relevant coding and problem-solving skills.</li></ul>
+
+- company: Hexagon R&D India (formerly Hexagon Capability Center India)
+  position: Software Developer
+  duration:  Sep 2021 &mdash; Jul 2023 
+  summary: <ul class="resume-item-list"><li>Spearheaded localization (l10n) and internationalization (i18n) of Hexagon Mining’s flagship software, for French and Chinese regions by translating 100+ UI elements and collaborating with 13 member cross functional team. This positioned the company to expand into high demand markets generating $1M+ in annual revenue through new licenses.</li> <li>Migrated a 40 year old C/C++ codebase to C# using WPF/WinForms (MVVM Pattern), reducing technical debt by over 30%. By refactoring 1000+ lines of legacy code, we cut bug resolution time by 40% (saving about 200 developer hours per quarter), translating to an estimated $600K in annual cost savings.</li> <li>Architected and implemented a batch-configuration feature from the ground up, revamping the user workflow and developing a new code module to streamline complex project setup into a single process. Achieved a 50% reduction in manual setup time, freeing up 150+ engineering hours annually and delivering $350K+ in annual savings.</li></ul>
+
+- company: DeltaX
+  position: Full Stack Developer Intern
+  duration:   Mar 2021 &mdash; Jul 2021
+  summary: <ul class="resume-item-list"><li>Modernized a legacy front-end architecture (jQuery) by migrating to a data-driven, single-page application using Vue.js, achieving a 25% reduction in page load times and enhanced application performance.</li><li>Optimized database interactions by transitioning performance-critical operations from ORM-based queries (Dapper) to stored procedures in SQL Server, achieving a 40% reduction in query execution time.</li><li>Implemented Behavior-Driven Development (BDD) with SpecFlow by writing 150+ test cases and mocks, automating end-to-end (E2E) testing and reducing manual testing effort by 30%.</li></ul>
+
+- company: Deloitte USI
+  position: Reporting & Data Analyst Intern
+  duration:   May 2020 &mdash; Jul 2020
+  summary: <ul class="resume-item-list"><li>Developed a data-driven recommendation report suggesting optimal content placement, informed by traffic analytics and heat map studies, resulting in a 20% increase in user engagement.</li><li>Conducted in-depth analyses of site navigation patterns and content effectiveness, proposing UX enhancements that cut bounce rate from 52% to 38%.</li></ul>

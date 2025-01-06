@@ -1,0 +1,17 @@
+# Projects
+
+
+
+- project: Cancer Diagnosis using Deep Neural Networks
+  role: Team Lead
+  duration: Apr 2024 &mdash; May 2024
+  url: "https://github.com/akumar-9/DANNs-for-Cancer-Diagnosis"
+  description: <ul class="resume-item-list"><li>Analyzed a dataset of 698 patient records with nine quantitative health metrics and a binary cancer diagnosis label.</li><li> Designed and implemented a data preprocessing pipeline, including dataset splitting (70/15/15 for training, validation, and testing), normalization, and feature scaling, leading to a 97% model accuracy in cancer classification.</li></ul>
+
+
+- project: Energy Optimization Using LSTM Neural Networks
+  role: Team Lead
+  duration: Nov 2023 &mdash; Dec 2023
+  url: "https://github.com/akumar-9/LSTM-for-energy-optimization"
+  description:  <ul class="resume-item-list"><li>Developed a cutting-edge energy optimization solution for residential settings by implementing advanced anomaly detection and time-series forecasting using ChangeFinder and LSTM neural networks.</li><li> Analyzed appliance-level and weather data to identify consumption trends, achieving an 89% variance explanation (R² = 0.89) with a MAPE of 9.3%, enabling actionable insights that improved energy efficiency predictions by 30%. </li><li> Designed and implemented predictive analytics workflows using Python, HoloViews, and Seaborn to create interactive visualizations and uncover energy usage patterns. </li><li> Delivered a robust anomaly detection and forecasting model, achieving a 20% reduction in error (RMSE = 0.085 kW) while providing impactful insights into energy consumption and generation dynamics.</li></ul>
+

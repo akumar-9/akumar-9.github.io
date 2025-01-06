@@ -1,0 +1,15 @@
+# Skills
+- skill: Programming Languages
+  description: C#, C/C++, Python, SQL, JavaScript, HTML/CSS, XAML.
+
+- skill: Frameworks
+  description: .NET Core, WPF, WinForms, MFC, Vue.js, ReactJS, SpecFlow, xUnit, NumPy, TensorFlow.
+
+- skill: Developer Tools
+  description: Git, SVN, Jira, Confluence, BitBucket, Microsoft Azure, Postman, Swagger.
+
+- skill: Methodology
+  description: SAFe Agile, Scrum, BDD, DDD, CI/CD.
+
+- skill: Soft Skills
+  description: Leadership, Problem-Solving, Communication, Work Ethic, Attention to Detail, Adaptability, Continuous Learning, Curiosity.

@@ -1,0 +1,8 @@
+# Associations
+# comment out the urls if you do not wish to display them
+
+- organization: Computer Society of India
+  role: Member
+  year: 2019 &mdash; 2021
+  url: https://csiindia.org/
+  summary: Gained exposure to workshops, webinars, and professional networking opportunities in technology.
